@@ -4,6 +4,10 @@
 *.mov
 *.mkv
 
+# Large model files
+bert_specialist_classifier/
+*.safetensors
+
 # Large data files (if needed)
 *.zip
 *.tar.gz
