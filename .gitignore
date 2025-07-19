@@ -1,0 +1,13 @@
+# Large video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Large data files (if needed)
+*.zip
+*.tar.gz
+
+# OS generated files
+.DS_Store
+Thumbs.db
